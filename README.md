@@ -22,13 +22,13 @@ Follow these instructions to set up and run the application on your local machin
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ashishpatil3101/desktop-VB-App-slidely
     cd <repository-directory>
     ```
 
 2. **Open the project in Visual Studio:**
 
-    Open `Form1.vbproj` or the corresponding project file in Visual Studio.
+    Open `WinFormsApp1.vbproj` or the corresponding project file in Visual Studio.
 
 3. **Run the application:**
 
