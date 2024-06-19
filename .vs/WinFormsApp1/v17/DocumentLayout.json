@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Node_projects\\slidely ai\\desktop\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B35D066-6E90-4949-A46C-739DE51BD6A1}|WinFormsApp1\\WinFormsApp1.vbproj|f:\\node_projects\\slidely ai\\desktop\\winformsapp1\\winformsapp1\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0B35D066-6E90-4949-A46C-739DE51BD6A1}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B35D066-6E90-4949-A46C-739DE51BD6A1}|WinFormsApp1\\WinFormsApp1.vbproj|f:\\node_projects\\slidely ai\\desktop\\winformsapp1\\winformsapp1\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0B35D066-6E90-4949-A46C-739DE51BD6A1}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B35D066-6E90-4949-A46C-739DE51BD6A1}|WinFormsApp1\\WinFormsApp1.vbproj|f:\\node_projects\\slidely ai\\desktop\\winformsapp1\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0B35D066-6E90-4949-A46C-739DE51BD6A1}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B35D066-6E90-4949-A46C-739DE51BD6A1}|WinFormsApp1\\WinFormsApp1.vbproj|f:\\node_projects\\slidely ai\\desktop\\winformsapp1\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0B35D066-6E90-4949-A46C-739DE51BD6A1}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B35D066-6E90-4949-A46C-739DE51BD6A1}|WinFormsApp1\\WinFormsApp1.vbproj|f:\\node_projects\\slidely ai\\desktop\\winformsapp1\\winformsapp1\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0B35D066-6E90-4949-A46C-739DE51BD6A1}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateSubmissionForm.vb",
+              "DocumentMoniker": "F:\\Node_projects\\slidely ai\\desktop\\WinFormsApp1\\WinFormsApp1\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\CreateSubmissionForm.vb",
+              "ToolTip": "F:\\Node_projects\\slidely ai\\desktop\\WinFormsApp1\\WinFormsApp1\\CreateSubmissionForm.vb",
+              "RelativeToolTip": "WinFormsApp1\\CreateSubmissionForm.vb",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAkwIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T10:35:46.198Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "F:\\Node_projects\\slidely ai\\desktop\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.vb",
+              "ToolTip": "F:\\Node_projects\\slidely ai\\desktop\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
+              "RelativeToolTip": "WinFormsApp1\\Form1.vb",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T11:34:51.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "F:\\Node_projects\\slidely ai\\desktop\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.vb",
+              "ToolTip": "F:\\Node_projects\\slidely ai\\desktop\\WinFormsApp1\\WinFormsApp1\\Form1.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T11:34:46.906Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "F:\\Node_projects\\slidely ai\\desktop\\WinFormsApp1\\WinFormsApp1\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ViewSubmissionsForm.vb",
+              "ToolTip": "F:\\Node_projects\\slidely ai\\desktop\\WinFormsApp1\\WinFormsApp1\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "WinFormsApp1\\ViewSubmissionsForm.vb",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAIwJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T11:02:56.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "F:\\Node_projects\\slidely ai\\desktop\\WinFormsApp1\\WinFormsApp1\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ViewSubmissionsForm.vb",
+              "ToolTip": "F:\\Node_projects\\slidely ai\\desktop\\WinFormsApp1\\WinFormsApp1\\ViewSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\ViewSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T08:46:14.471Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
