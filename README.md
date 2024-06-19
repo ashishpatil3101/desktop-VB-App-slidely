@@ -28,7 +28,7 @@ Follow these instructions to set up and run the application on your local machin
 
 2. **Open the project in Visual Studio:**
 
-    Open `WinFormsApp1.vbproj` or the corresponding project file in Visual Studio.
+    Open `WinFormsApp1.vbproj` or `WinFormsApp1.sln` or the corresponding project file in Visual Studio.
 
 3. **Run the application:**
 
